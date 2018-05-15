@@ -1,0 +1,18 @@
+1. Set up
+1.1. Create maven project 
+1.2. Add selenium and TestNG to dependencies
+
+2. Write TestNG java test with selenium webdriver
+2.1 navigate to https://github.com/
+2.2 Click sign in to GitHub
+2.3 Type login and password
+2.4 In search input type 'selenium java'
+2.5 print results titles and total count of results e.g. 3,515 repository results
+2.6 verify that all search results has tag selenium
+2.7 change sorting to other dropdown value
+2.8 print results titles and total count of results
+2.9 change text in search bar 
+2.10 print results titles and total count of results 
+
+Notes:
+ try to avoid code duplication
