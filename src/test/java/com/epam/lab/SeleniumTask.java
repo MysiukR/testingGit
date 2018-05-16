@@ -1,3 +1,5 @@
+package com.epam.lab;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
@@ -15,7 +17,7 @@ import java.util.List;
 public class SeleniumTask {
     private static final String PATH_CHROME_DRIVER = "src/main/resources/chromedriver.exe";
     private static final String DRIVER = "webdriver.chrome.driver";
-    private static final String PATH_LOGGER_PROPERTIES="src/log4j.properties";
+    private static final String PATH_LOGGER_PROPERTIES = "src/log4j.properties";
     private static final String LOGIN_GIT = "MysiukR";
     private static final String PASSWORD_GIT = "****";
     private static final String TEST_SITE = "https://github.com/";
@@ -38,7 +40,6 @@ public class SeleniumTask {
         webDriver.findElement(By.id("login_field")).sendKeys(LOGIN_GIT);
         webDriver.findElement(By.id("password")).sendKeys(PASSWORD_GIT);
         webDriver.findElement(By.name("commit")).click();
-        webDriver.get(TEST_SITE);
     }
 
     @Test(dependsOnMethods = {"testRegistrationForm"})
@@ -94,8 +95,7 @@ public class SeleniumTask {
 
     private void checkTags() {
         List<WebElement> elements = webDriver.findElements(By.cssSelector("a.topic-tag.topic-tag-link.f6.my-1"));
-        elements.stream()
-                .filter(user -> user.getText().contentEquals("selenium"))
+        elements.stream().filter(user -> user.getText().contentEquals("selenium"))
                 .forEach(element -> logger.info("Tag 'selenium' contain: " + element.getText()));
         int countTag = ((int) elements.stream()
                 .filter(user -> user.getText().contentEquals("selenium")).count());
