@@ -1,176 +1,504 @@
-2018-05-15 10:03:37 INFO  SeleniumTask:60 - Total count are 3,518 repository results
-2018-05-15 10:03:37 INFO  SeleniumTask:53 - There are 10 on the page.
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - SeleniumHQ/selenium
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - vmi/selenese-runner-java
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - Ardesco/Selenium-Maven-Template
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - bonigarcia/webdrivermanager
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - yandex-qatools/htmlelements
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - arquillian/arquillian-graphene
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - previousdeveloper/Selenium-best-practices
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - executeautomation/SeleniumWithCucucumber
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - seleniumQuery/seleniumQuery
-2018-05-15 10:03:37 INFO  SeleniumTask:55 - sayems/java.webdriver
-2018-05-15 10:03:37 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: SeleniumHQ/selenium
-2018-05-15 10:03:37 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: Ardesco/Selenium-Maven-Template
-2018-05-15 10:03:37 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: previousdeveloper/Selenium-best-practices
-2018-05-15 10:03:37 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: executeautomation/SeleniumWithCucucumber
-2018-05-15 10:03:37 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: seleniumQuery/seleniumQuery
-2018-05-15 10:03:37 ERROR SeleniumTask:76 - Not all tags contain selenium. 5 from 10
-2018-05-15 10:03:38 INFO  SeleniumTask:53 - There are 10 on the page.
-2018-05-15 10:03:38 INFO  SeleniumTask:55 - dobikun/selenium
-2018-05-15 10:03:38 INFO  SeleniumTask:55 - asheikabrar/Selenium
-2018-05-15 10:03:38 INFO  SeleniumTask:55 - arnlaugsson/sparkIt
-2018-05-15 10:03:38 INFO  SeleniumTask:55 - knurum/Java
-2018-05-15 10:03:38 INFO  SeleniumTask:55 - Gutek18/Java
-2018-05-15 10:03:38 INFO  SeleniumTask:55 - defrances/Java
-2018-05-15 10:03:38 INFO  SeleniumTask:55 - crossbrowsertesting/selenium-java
-2018-05-15 10:03:39 INFO  SeleniumTask:55 - the-multitude/Selenium
-2018-05-15 10:03:39 INFO  SeleniumTask:55 - bvinaykumar/selenium
-2018-05-15 10:03:39 INFO  SeleniumTask:55 - jgreenQA/Selenium
-2018-05-15 10:03:40 INFO  SeleniumTask:60 - Total count are 777,573 repository results
-2018-05-15 10:03:40 INFO  SeleniumTask:53 - There are 10 on the page.
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - TheAlgorithms/Java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - DuGuQiuBai/Java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - hmkcode/Java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - pubnub/java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - sous-chefs/java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - dockerfile/java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - json-iterator/java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - gaopu/Java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - exercism/java
-2018-05-15 10:03:40 INFO  SeleniumTask:55 - structurizr/java
-2018-05-15 17:41:05 INFO  SeleniumTask:60 - Total count are 3,520 repository results
-2018-05-15 17:41:05 INFO  SeleniumTask:53 - There are 10 on the page.
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - SeleniumHQ/selenium
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - vmi/selenese-runner-java
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - Ardesco/Selenium-Maven-Template
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - bonigarcia/webdrivermanager
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - yandex-qatools/htmlelements
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - arquillian/arquillian-graphene
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - previousdeveloper/Selenium-best-practices
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - executeautomation/SeleniumWithCucucumber
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - seleniumQuery/seleniumQuery
-2018-05-15 17:41:06 INFO  SeleniumTask:55 - sayems/java.webdriver
-2018-05-15 17:41:06 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: SeleniumHQ/selenium
-2018-05-15 17:41:06 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: Ardesco/Selenium-Maven-Template
-2018-05-15 17:41:06 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: previousdeveloper/Selenium-best-practices
-2018-05-15 17:41:06 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: executeautomation/SeleniumWithCucucumber
-2018-05-15 17:41:06 INFO  SeleniumTask:72 - Tag 'selenium' contain the title: seleniumQuery/seleniumQuery
-2018-05-15 17:41:06 ERROR SeleniumTask:76 - Not all tags contain selenium. 5 from 10
-2018-05-15 17:41:08 INFO  SeleniumTask:53 - There are 10 on the page.
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - dobikun/selenium
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - asheikabrar/Selenium
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - arnlaugsson/sparkIt
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - knurum/Java
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - Gutek18/Java
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - defrances/Java
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - crossbrowsertesting/selenium-java
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - the-multitude/Selenium
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - bvinaykumar/selenium
-2018-05-15 17:41:08 INFO  SeleniumTask:55 - jgreenQA/Selenium
-2018-05-15 17:41:11 INFO  SeleniumTask:60 - Total count are 777,943 repository results
-2018-05-15 17:41:11 INFO  SeleniumTask:53 - There are 10 on the page.
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - TheAlgorithms/Java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - DuGuQiuBai/Java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - hmkcode/Java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - pubnub/java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - sous-chefs/java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - dockerfile/java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - gaopu/Java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - json-iterator/java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - exercism/java
-2018-05-15 17:41:12 INFO  SeleniumTask:55 - structurizr/java
-2018-05-15 17:44:51 INFO  SeleniumTask:61 - Total count are 3,520 repository results
-2018-05-15 17:44:51 INFO  SeleniumTask:53 - There are 10 repositories on the page.
-2018-05-15 17:44:51 INFO  SeleniumTask:54 - 
-Name of repositories: 
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - SeleniumHQ/selenium
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - vmi/selenese-runner-java
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - Ardesco/Selenium-Maven-Template
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - bonigarcia/webdrivermanager
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - yandex-qatools/htmlelements
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - arquillian/arquillian-graphene
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - previousdeveloper/Selenium-best-practices
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - executeautomation/SeleniumWithCucucumber
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - seleniumQuery/seleniumQuery
-2018-05-15 17:44:52 INFO  SeleniumTask:56 - sayems/java.webdriver
-2018-05-15 17:44:52 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: SeleniumHQ/selenium
-2018-05-15 17:44:52 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: Ardesco/Selenium-Maven-Template
-2018-05-15 17:44:52 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: previousdeveloper/Selenium-best-practices
-2018-05-15 17:44:52 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: executeautomation/SeleniumWithCucucumber
-2018-05-15 17:44:52 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: seleniumQuery/seleniumQuery
-2018-05-15 17:44:52 ERROR SeleniumTask:77 - Not all tags contain selenium. 5 from 10
-2018-05-15 17:44:53 INFO  SeleniumTask:53 - There are 10 repositories on the page.
-2018-05-15 17:44:53 INFO  SeleniumTask:54 - 
-Name of repositories: 
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - dobikun/selenium
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - asheikabrar/Selenium
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - arnlaugsson/sparkIt
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - knurum/Java
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - Gutek18/Java
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - defrances/Java
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - crossbrowsertesting/selenium-java
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - the-multitude/Selenium
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - bvinaykumar/selenium
-2018-05-15 17:44:54 INFO  SeleniumTask:56 - jgreenQA/Selenium
-2018-05-15 17:44:57 INFO  SeleniumTask:61 - Total count are 777,948 repository results
-2018-05-15 17:44:57 INFO  SeleniumTask:53 - There are 10 repositories on the page.
-2018-05-15 17:44:57 INFO  SeleniumTask:54 - 
-Name of repositories: 
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - TheAlgorithms/Java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - DuGuQiuBai/Java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - hmkcode/Java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - pubnub/java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - sous-chefs/java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - dockerfile/java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - gaopu/Java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - json-iterator/java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - exercism/java
-2018-05-15 17:44:57 INFO  SeleniumTask:56 - structurizr/java
-2018-05-15 17:46:08 INFO  SeleniumTask:61 - Total count are 3,520 repository results
-2018-05-15 17:46:08 INFO  SeleniumTask:53 - There are 10 repositories on the page.
+2018-05-15 21:50:48 INFO  SeleniumTask:61 - Total count are 3,522 repository results
+2018-05-15 21:50:48 INFO  SeleniumTask:53 - There are 10 repositories on the page.
 
-2018-05-15 17:46:08 INFO  SeleniumTask:54 - Name of repositories: 
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	SeleniumHQ/selenium
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	vmi/selenese-runner-java
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	Ardesco/Selenium-Maven-Template
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	bonigarcia/webdrivermanager
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	yandex-qatools/htmlelements
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	arquillian/arquillian-graphene
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	previousdeveloper/Selenium-best-practices
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	executeautomation/SeleniumWithCucucumber
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	seleniumQuery/seleniumQuery
-2018-05-15 17:46:08 INFO  SeleniumTask:56 - 	sayems/java.webdriver
-2018-05-15 17:46:08 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: SeleniumHQ/selenium
-2018-05-15 17:46:08 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: Ardesco/Selenium-Maven-Template
-2018-05-15 17:46:08 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: previousdeveloper/Selenium-best-practices
-2018-05-15 17:46:08 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: executeautomation/SeleniumWithCucucumber
-2018-05-15 17:46:08 INFO  SeleniumTask:73 - Tag 'selenium' contain the title: seleniumQuery/seleniumQuery
-2018-05-15 17:46:09 ERROR SeleniumTask:77 - Not all tags contain selenium. 5 from 10
-2018-05-15 17:46:10 INFO  SeleniumTask:53 - There are 10 repositories on the page.
+2018-05-15 21:50:48 INFO  SeleniumTask:54 - Name of repositories: 
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	SeleniumHQ/selenium
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	vmi/selenese-runner-java
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	bonigarcia/webdrivermanager
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	yandex-qatools/htmlelements
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	arquillian/arquillian-graphene
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	seleniumQuery/seleniumQuery
+2018-05-15 21:50:48 INFO  SeleniumTask:56 - 	sayems/java.webdriver
+2018-05-15 21:50:49 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:49 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:50 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:50 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:50 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:51 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:51 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:51 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:52 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:52 INFO  SeleniumTask:73 - Tag 'selenium' contain: selenium
+2018-05-15 21:50:53 INFO  SeleniumTask:79 - All tags contain selenium!
+2018-05-15 21:50:55 INFO  SeleniumTask:53 - There are 10 repositories on the page.
 
-2018-05-15 17:46:10 INFO  SeleniumTask:54 - Name of repositories: 
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	dobikun/selenium
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	asheikabrar/Selenium
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	arnlaugsson/sparkIt
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	knurum/Java
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	Gutek18/Java
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	defrances/Java
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	crossbrowsertesting/selenium-java
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	the-multitude/Selenium
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	bvinaykumar/selenium
-2018-05-15 17:46:10 INFO  SeleniumTask:56 - 	jgreenQA/Selenium
-2018-05-15 17:46:13 INFO  SeleniumTask:61 - Total count are 777,950 repository results
-2018-05-15 17:46:13 INFO  SeleniumTask:53 - There are 10 repositories on the page.
+2018-05-15 21:50:55 INFO  SeleniumTask:54 - Name of repositories: 
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	dobikun/selenium
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	asheikabrar/Selenium
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	arnlaugsson/sparkIt
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	knurum/Java
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	Gutek18/Java
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	defrances/Java
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	crossbrowsertesting/selenium-java
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	the-multitude/Selenium
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	bvinaykumar/selenium
+2018-05-15 21:50:56 INFO  SeleniumTask:56 - 	jgreenQA/Selenium
+2018-05-15 21:50:58 INFO  SeleniumTask:61 - Total count are 778,149 repository results
+2018-05-15 21:50:58 INFO  SeleniumTask:53 - There are 10 repositories on the page.
 
-2018-05-15 17:46:13 INFO  SeleniumTask:54 - Name of repositories: 
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	TheAlgorithms/Java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	DuGuQiuBai/Java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	hmkcode/Java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	pubnub/java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	sous-chefs/java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	dockerfile/java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	gaopu/Java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	json-iterator/java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	exercism/java
-2018-05-15 17:46:13 INFO  SeleniumTask:56 - 	structurizr/java
+2018-05-15 21:50:58 INFO  SeleniumTask:54 - Name of repositories: 
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	TheAlgorithms/Java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	DuGuQiuBai/Java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	hmkcode/Java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	pubnub/java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	sous-chefs/java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	dockerfile/java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	json-iterator/java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	gaopu/Java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	exercism/java
+2018-05-15 21:50:58 INFO  SeleniumTask:56 - 	structurizr/java
+2018-05-15 22:32:17 INFO  SeleniumTask:89 - All tags contain selenium!
+2018-05-15 22:33:05 INFO  SeleniumTask:90 - All tags contain selenium!
+2018-05-15 22:34:14 INFO  SeleniumTask:91 - All tags contain selenium!
+2018-05-15 22:35:16 INFO  SeleniumTask:83 - All tags contain selenium!
+2018-05-15 22:36:39 INFO  SeleniumTask:83 - All tags contain selenium!
+2018-05-15 22:40:41 INFO  SeleniumTask:83 - All tags contain selenium!
+2018-05-15 22:42:41 INFO  SeleniumTask:83 - All tags contain selenium!
+2018-05-15 22:43:04 INFO  SeleniumTask:83 - All tags contain selenium!
+2018-05-15 22:44:17 INFO  SeleniumTask:82 - All tags contain selenium!
+2018-05-15 22:44:47 INFO  SeleniumTask:82 - All tags contain selenium!
+2018-05-15 22:48:19 INFO  SeleniumTask:82 - All tags contain selenium!
+2018-05-15 22:49:45 INFO  SeleniumTask:67 - Total count are 3,523 repository results
+2018-05-15 22:49:45 INFO  SeleniumTask:59 - There are 10 repositories on the page.
+
+2018-05-15 22:49:45 INFO  SeleniumTask:60 - Name of repositories: 
+2018-05-15 22:49:45 INFO  SeleniumTask:62 - 	SeleniumHQ/selenium
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	vmi/selenese-runner-java
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	bonigarcia/webdrivermanager
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	yandex-qatools/htmlelements
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	arquillian/arquillian-graphene
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	seleniumQuery/seleniumQuery
+2018-05-15 22:49:46 INFO  SeleniumTask:62 - 	sayems/java.webdriver
+2018-05-15 22:49:46 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:47 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:47 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:47 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:48 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:48 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:48 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:48 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:49 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:49 INFO  SeleniumTask:79 - Tag 'selenium' contain: selenium
+2018-05-15 22:49:50 INFO  SeleniumTask:85 - All tags contain selenium!
+2018-05-15 22:49:52 INFO  SeleniumTask:59 - There are 10 repositories on the page.
+
+2018-05-15 22:49:52 INFO  SeleniumTask:60 - Name of repositories: 
+2018-05-15 22:49:52 INFO  SeleniumTask:62 - 	dobikun/selenium
+2018-05-15 22:49:52 INFO  SeleniumTask:62 - 	asheikabrar/Selenium
+2018-05-15 22:49:52 INFO  SeleniumTask:62 - 	arnlaugsson/sparkIt
+2018-05-15 22:49:52 INFO  SeleniumTask:62 - 	knurum/Java
+2018-05-15 22:49:52 INFO  SeleniumTask:62 - 	Gutek18/Java
+2018-05-15 22:49:52 INFO  SeleniumTask:62 - 	defrances/Java
+2018-05-15 22:49:52 INFO  SeleniumTask:62 - 	crossbrowsertesting/selenium-java
+2018-05-15 22:49:52 INFO  SeleniumTask:62 - 	the-multitude/Selenium
+2018-05-15 22:49:53 INFO  SeleniumTask:62 - 	bvinaykumar/selenium
+2018-05-15 22:49:53 INFO  SeleniumTask:62 - 	jgreenQA/Selenium
+2018-05-15 22:49:56 INFO  SeleniumTask:67 - Total count are 778,192 repository results
+2018-05-15 22:49:56 INFO  SeleniumTask:59 - There are 10 repositories on the page.
+
+2018-05-15 22:49:56 INFO  SeleniumTask:60 - Name of repositories: 
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	TheAlgorithms/Java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	DuGuQiuBai/Java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	hmkcode/Java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	pubnub/java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	sous-chefs/java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	dockerfile/java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	json-iterator/java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	gaopu/Java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	exercism/java
+2018-05-15 22:49:56 INFO  SeleniumTask:62 - 	structurizr/java
+2018-05-15 22:58:38 INFO  SeleniumTask:85 - All tags contain selenium!
+2018-05-15 23:01:17 INFO  SeleniumTask:72 - Total count are 3,523 repository results
+2018-05-15 23:01:17 INFO  SeleniumTask:64 - There are 10 repositories on the page.
+
+2018-05-15 23:01:17 INFO  SeleniumTask:65 - Name of repositories: 
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	SeleniumHQ/selenium
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	vmi/selenese-runner-java
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	bonigarcia/webdrivermanager
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	yandex-qatools/htmlelements
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	arquillian/arquillian-graphene
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	seleniumQuery/seleniumQuery
+2018-05-15 23:01:17 INFO  SeleniumTask:67 - 	sayems/java.webdriver
+2018-05-15 23:01:17 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:18 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:18 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:18 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:18 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:19 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:19 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:19 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:19 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:19 INFO  SeleniumTask:84 - Tag 'selenium' contain: selenium
+2018-05-15 23:01:21 INFO  SeleniumTask:90 - All tags contain selenium!
+2018-05-15 23:01:22 INFO  SeleniumTask:64 - There are 10 repositories on the page.
+
+2018-05-15 23:01:22 INFO  SeleniumTask:65 - Name of repositories: 
+2018-05-15 23:01:22 INFO  SeleniumTask:67 - 	dobikun/selenium
+2018-05-15 23:01:22 INFO  SeleniumTask:67 - 	asheikabrar/Selenium
+2018-05-15 23:01:22 INFO  SeleniumTask:67 - 	arnlaugsson/sparkIt
+2018-05-15 23:01:22 INFO  SeleniumTask:67 - 	knurum/Java
+2018-05-15 23:01:22 INFO  SeleniumTask:67 - 	Gutek18/Java
+2018-05-15 23:01:22 INFO  SeleniumTask:67 - 	defrances/Java
+2018-05-15 23:01:23 INFO  SeleniumTask:67 - 	crossbrowsertesting/selenium-java
+2018-05-15 23:01:23 INFO  SeleniumTask:67 - 	the-multitude/Selenium
+2018-05-15 23:01:23 INFO  SeleniumTask:67 - 	bvinaykumar/selenium
+2018-05-15 23:01:23 INFO  SeleniumTask:67 - 	jgreenQA/Selenium
+2018-05-15 23:06:05 INFO  SeleniumTask:87 - Total count are 3,523 repository results
+2018-05-15 23:06:05 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:06:05 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	SeleniumHQ/selenium
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	vmi/selenese-runner-java
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	bonigarcia/webdrivermanager
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	yandex-qatools/htmlelements
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	arquillian/arquillian-graphene
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	seleniumQuery/seleniumQuery
+2018-05-15 23:06:05 INFO  SeleniumTask:82 - 	sayems/java.webdriver
+2018-05-15 23:06:05 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:06 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:06 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:06 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:06 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:07 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:07 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:07 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:07 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:08 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-15 23:06:09 INFO  SeleniumTask:105 - All tags contain selenium!
+2018-05-15 23:06:10 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:06:10 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	dobikun/selenium
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	asheikabrar/Selenium
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	arnlaugsson/sparkIt
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	knurum/Java
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	Gutek18/Java
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	defrances/Java
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	crossbrowsertesting/selenium-java
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	the-multitude/Selenium
+2018-05-15 23:06:10 INFO  SeleniumTask:82 - 	bvinaykumar/selenium
+2018-05-15 23:06:11 INFO  SeleniumTask:82 - 	jgreenQA/Selenium
+2018-05-15 23:06:13 INFO  SeleniumTask:87 - Total count are 778,206 repository results
+2018-05-15 23:06:13 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:06:13 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:06:13 INFO  SeleniumTask:82 - 	TheAlgorithms/Java
+2018-05-15 23:06:13 INFO  SeleniumTask:82 - 	DuGuQiuBai/Java
+2018-05-15 23:06:13 INFO  SeleniumTask:82 - 	hmkcode/Java
+2018-05-15 23:06:13 INFO  SeleniumTask:82 - 	pubnub/java
+2018-05-15 23:06:13 INFO  SeleniumTask:82 - 	sous-chefs/java
+2018-05-15 23:06:13 INFO  SeleniumTask:82 - 	dockerfile/java
+2018-05-15 23:06:13 INFO  SeleniumTask:82 - 	json-iterator/java
+2018-05-15 23:06:14 INFO  SeleniumTask:82 - 	gaopu/Java
+2018-05-15 23:06:14 INFO  SeleniumTask:82 - 	exercism/java
+2018-05-15 23:06:14 INFO  SeleniumTask:82 - 	structurizr/java
+2018-05-15 23:07:26 INFO  SeleniumTask:87 - Total count are 778,208 repository results
+2018-05-15 23:07:27 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:07:27 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	TheAlgorithms/Java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	DuGuQiuBai/Java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	hmkcode/Java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	pubnub/java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	sous-chefs/java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	dockerfile/java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	json-iterator/java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	gaopu/Java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	exercism/java
+2018-05-15 23:07:27 INFO  SeleniumTask:82 - 	structurizr/java
+2018-05-15 23:07:29 ERROR SeleniumTask:103 - Not all tags contain selenium. 0 from 10
+2018-05-15 23:07:30 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:07:30 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:07:30 INFO  SeleniumTask:82 - 	alexkhatilov/java
+2018-05-15 23:07:30 INFO  SeleniumTask:82 - 	IT341-B/Java
+2018-05-15 23:07:30 INFO  SeleniumTask:82 - 	OOP2016/Java
+2018-05-15 23:07:30 INFO  SeleniumTask:82 - 	srinivasgowda097/Java
+2018-05-15 23:07:30 INFO  SeleniumTask:82 - 	brainmentorspvtltd/java
+2018-05-15 23:07:30 INFO  SeleniumTask:82 - 	dfleta/Java
+2018-05-15 23:07:30 INFO  SeleniumTask:82 - 	tritechsc/java
+2018-05-15 23:07:30 INFO  SeleniumTask:82 - 	kalmanchow/Java
+2018-05-15 23:07:31 INFO  SeleniumTask:82 - 	demoglot/java
+2018-05-15 23:07:31 INFO  SeleniumTask:82 - 	Mibew/java
+2018-05-15 23:07:35 INFO  SeleniumTask:87 - Total count are 3,523 repository results
+2018-05-15 23:07:35 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:07:35 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:07:35 INFO  SeleniumTask:82 - 	SeleniumHQ/selenium
+2018-05-15 23:07:35 INFO  SeleniumTask:82 - 	vmi/selenese-runner-java
+2018-05-15 23:07:35 INFO  SeleniumTask:82 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 23:07:35 INFO  SeleniumTask:82 - 	bonigarcia/webdrivermanager
+2018-05-15 23:07:35 INFO  SeleniumTask:82 - 	yandex-qatools/htmlelements
+2018-05-15 23:07:35 INFO  SeleniumTask:82 - 	arquillian/arquillian-graphene
+2018-05-15 23:07:35 INFO  SeleniumTask:82 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 23:07:35 INFO  SeleniumTask:82 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 23:07:36 INFO  SeleniumTask:82 - 	seleniumQuery/seleniumQuery
+2018-05-15 23:07:36 INFO  SeleniumTask:82 - 	sayems/java.webdriver
+2018-05-15 23:08:50 INFO  SeleniumTask:87 - Total count are 778,210 repository results
+2018-05-15 23:08:50 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:08:50 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:08:50 INFO  SeleniumTask:82 - 	TheAlgorithms/Java
+2018-05-15 23:08:50 INFO  SeleniumTask:82 - 	DuGuQiuBai/Java
+2018-05-15 23:08:50 INFO  SeleniumTask:82 - 	hmkcode/Java
+2018-05-15 23:08:50 INFO  SeleniumTask:82 - 	pubnub/java
+2018-05-15 23:08:50 INFO  SeleniumTask:82 - 	sous-chefs/java
+2018-05-15 23:08:51 INFO  SeleniumTask:82 - 	dockerfile/java
+2018-05-15 23:08:51 INFO  SeleniumTask:82 - 	json-iterator/java
+2018-05-15 23:08:51 INFO  SeleniumTask:82 - 	gaopu/Java
+2018-05-15 23:08:51 INFO  SeleniumTask:82 - 	exercism/java
+2018-05-15 23:08:51 INFO  SeleniumTask:82 - 	structurizr/java
+2018-05-15 23:08:52 ERROR SeleniumTask:103 - Not all tags contain selenium. 0 from 10
+2018-05-15 23:08:54 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:08:54 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	alexkhatilov/java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	IT341-B/Java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	OOP2016/Java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	srinivasgowda097/Java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	brainmentorspvtltd/java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	dfleta/Java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	tritechsc/java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	kalmanchow/Java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	demoglot/java
+2018-05-15 23:08:54 INFO  SeleniumTask:82 - 	Mibew/java
+2018-05-15 23:08:59 INFO  SeleniumTask:87 - Total count are 3,523 repository results
+2018-05-15 23:08:59 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:08:59 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:08:59 INFO  SeleniumTask:82 - 	SeleniumHQ/selenium
+2018-05-15 23:08:59 INFO  SeleniumTask:82 - 	vmi/selenese-runner-java
+2018-05-15 23:08:59 INFO  SeleniumTask:82 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 23:08:59 INFO  SeleniumTask:82 - 	bonigarcia/webdrivermanager
+2018-05-15 23:08:59 INFO  SeleniumTask:82 - 	yandex-qatools/htmlelements
+2018-05-15 23:08:59 INFO  SeleniumTask:82 - 	arquillian/arquillian-graphene
+2018-05-15 23:08:59 INFO  SeleniumTask:82 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 23:08:59 INFO  SeleniumTask:82 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 23:09:00 INFO  SeleniumTask:82 - 	seleniumQuery/seleniumQuery
+2018-05-15 23:09:00 INFO  SeleniumTask:82 - 	sayems/java.webdriver
+2018-05-15 23:09:39 INFO  SeleniumTask:105 - All tags contain selenium!
+2018-05-15 23:09:42 INFO  SeleniumTask:87 - Total count are 778,212 repository results
+2018-05-15 23:09:42 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:09:42 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	TheAlgorithms/Java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	DuGuQiuBai/Java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	hmkcode/Java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	pubnub/java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	sous-chefs/java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	dockerfile/java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	json-iterator/java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	gaopu/Java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	exercism/java
+2018-05-15 23:09:42 INFO  SeleniumTask:82 - 	structurizr/java
+2018-05-15 23:09:48 INFO  SeleniumTask:87 - Total count are 3,523 repository results
+2018-05-15 23:09:48 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:09:48 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:09:48 INFO  SeleniumTask:82 - 	SeleniumHQ/selenium
+2018-05-15 23:09:48 INFO  SeleniumTask:82 - 	vmi/selenese-runner-java
+2018-05-15 23:09:48 INFO  SeleniumTask:82 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 23:09:48 INFO  SeleniumTask:82 - 	bonigarcia/webdrivermanager
+2018-05-15 23:09:48 INFO  SeleniumTask:82 - 	yandex-qatools/htmlelements
+2018-05-15 23:09:48 INFO  SeleniumTask:82 - 	arquillian/arquillian-graphene
+2018-05-15 23:09:48 INFO  SeleniumTask:82 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 23:09:48 INFO  SeleniumTask:82 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 23:09:49 INFO  SeleniumTask:82 - 	seleniumQuery/seleniumQuery
+2018-05-15 23:09:49 INFO  SeleniumTask:82 - 	sayems/java.webdriver
+2018-05-15 23:12:54 INFO  SeleniumTask:105 - All tags contain selenium!
+2018-05-15 23:13:00 INFO  SeleniumTask:87 - Total count are 778,214 repository results
+2018-05-15 23:13:00 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:13:00 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	TheAlgorithms/Java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	DuGuQiuBai/Java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	hmkcode/Java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	pubnub/java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	sous-chefs/java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	dockerfile/java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	json-iterator/java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	gaopu/Java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	exercism/java
+2018-05-15 23:13:00 INFO  SeleniumTask:82 - 	structurizr/java
+2018-05-15 23:13:03 INFO  SeleniumTask:87 - Total count are 3,523 repository results
+2018-05-15 23:13:03 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-15 23:13:03 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	SeleniumHQ/selenium
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	vmi/selenese-runner-java
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	bonigarcia/webdrivermanager
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	yandex-qatools/htmlelements
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	arquillian/arquillian-graphene
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	seleniumQuery/seleniumQuery
+2018-05-15 23:13:03 INFO  SeleniumTask:82 - 	sayems/java.webdriver
+2018-05-15 23:14:18 INFO  SeleniumTask:81 - Total count are 3,523 repository results
+2018-05-15 23:14:18 INFO  SeleniumTask:73 - There are 10 repositories on the page.
+
+2018-05-15 23:14:18 INFO  SeleniumTask:74 - Name of repositories: 
+2018-05-15 23:14:18 INFO  SeleniumTask:76 - 	SeleniumHQ/selenium
+2018-05-15 23:14:18 INFO  SeleniumTask:76 - 	vmi/selenese-runner-java
+2018-05-15 23:14:18 INFO  SeleniumTask:76 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 23:14:18 INFO  SeleniumTask:76 - 	bonigarcia/webdrivermanager
+2018-05-15 23:14:18 INFO  SeleniumTask:76 - 	yandex-qatools/htmlelements
+2018-05-15 23:14:19 INFO  SeleniumTask:76 - 	arquillian/arquillian-graphene
+2018-05-15 23:14:19 INFO  SeleniumTask:76 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 23:14:19 INFO  SeleniumTask:76 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 23:14:19 INFO  SeleniumTask:76 - 	seleniumQuery/seleniumQuery
+2018-05-15 23:14:19 INFO  SeleniumTask:76 - 	sayems/java.webdriver
+2018-05-15 23:14:19 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:19 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:19 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:20 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:20 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:20 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:20 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:20 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:21 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:21 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:14:22 INFO  SeleniumTask:99 - All tags contain selenium!
+2018-05-15 23:14:24 INFO  SeleniumTask:73 - There are 10 repositories on the page.
+
+2018-05-15 23:14:24 INFO  SeleniumTask:74 - Name of repositories: 
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	dobikun/selenium
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	asheikabrar/Selenium
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	arnlaugsson/sparkIt
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	knurum/Java
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	Gutek18/Java
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	defrances/Java
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	crossbrowsertesting/selenium-java
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	the-multitude/Selenium
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	bvinaykumar/selenium
+2018-05-15 23:14:24 INFO  SeleniumTask:76 - 	jgreenQA/Selenium
+2018-05-15 23:14:26 INFO  SeleniumTask:81 - Total count are 778,216 repository results
+2018-05-15 23:14:26 INFO  SeleniumTask:73 - There are 10 repositories on the page.
+
+2018-05-15 23:14:26 INFO  SeleniumTask:74 - Name of repositories: 
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	TheAlgorithms/Java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	DuGuQiuBai/Java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	hmkcode/Java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	pubnub/java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	sous-chefs/java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	dockerfile/java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	json-iterator/java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	gaopu/Java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	exercism/java
+2018-05-15 23:14:26 INFO  SeleniumTask:76 - 	structurizr/java
+2018-05-15 23:15:21 INFO  SeleniumTask:81 - Total count are 3,523 repository results
+2018-05-15 23:15:21 INFO  SeleniumTask:73 - There are 10 repositories on the page.
+
+2018-05-15 23:15:21 INFO  SeleniumTask:74 - Name of repositories: 
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	SeleniumHQ/selenium
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	vmi/selenese-runner-java
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	Ardesco/Selenium-Maven-Template
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	bonigarcia/webdrivermanager
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	yandex-qatools/htmlelements
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	arquillian/arquillian-graphene
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	previousdeveloper/Selenium-best-practices
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	executeautomation/SeleniumWithCucucumber
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	seleniumQuery/seleniumQuery
+2018-05-15 23:15:21 INFO  SeleniumTask:76 - 	sayems/java.webdriver
+2018-05-15 23:15:21 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:21 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:22 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:22 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:22 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:22 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:23 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:23 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:23 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:23 INFO  SeleniumTask:93 - Tag 'selenium' contain: selenium
+2018-05-15 23:15:24 INFO  SeleniumTask:99 - All tags contain selenium!
+2018-05-15 23:15:26 INFO  SeleniumTask:73 - There are 10 repositories on the page.
+
+2018-05-15 23:15:26 INFO  SeleniumTask:74 - Name of repositories: 
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	dobikun/selenium
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	asheikabrar/Selenium
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	arnlaugsson/sparkIt
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	knurum/Java
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	Gutek18/Java
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	defrances/Java
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	crossbrowsertesting/selenium-java
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	the-multitude/Selenium
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	bvinaykumar/selenium
+2018-05-15 23:15:26 INFO  SeleniumTask:76 - 	jgreenQA/Selenium
+2018-05-15 23:15:28 INFO  SeleniumTask:81 - Total count are 778,217 repository results
+2018-05-15 23:15:28 INFO  SeleniumTask:73 - There are 10 repositories on the page.
+
+2018-05-15 23:15:28 INFO  SeleniumTask:74 - Name of repositories: 
+2018-05-15 23:15:28 INFO  SeleniumTask:76 - 	TheAlgorithms/Java
+2018-05-15 23:15:28 INFO  SeleniumTask:76 - 	DuGuQiuBai/Java
+2018-05-15 23:15:28 INFO  SeleniumTask:76 - 	hmkcode/Java
+2018-05-15 23:15:29 INFO  SeleniumTask:76 - 	pubnub/java
+2018-05-15 23:15:29 INFO  SeleniumTask:76 - 	sous-chefs/java
+2018-05-15 23:15:29 INFO  SeleniumTask:76 - 	dockerfile/java
+2018-05-15 23:15:29 INFO  SeleniumTask:76 - 	json-iterator/java
+2018-05-15 23:15:29 INFO  SeleniumTask:76 - 	gaopu/Java
+2018-05-15 23:15:29 INFO  SeleniumTask:76 - 	exercism/java
+2018-05-15 23:15:29 INFO  SeleniumTask:76 - 	structurizr/java
+2018-05-16 13:06:47 INFO  SeleniumTask:87 - Total count are 3,528 repository results
+2018-05-16 13:06:47 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-16 13:06:47 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	SeleniumHQ/selenium
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	vmi/selenese-runner-java
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	Ardesco/Selenium-Maven-Template
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	bonigarcia/webdrivermanager
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	yandex-qatools/htmlelements
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	arquillian/arquillian-graphene
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	previousdeveloper/Selenium-best-practices
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	executeautomation/SeleniumWithCucucumber
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	seleniumQuery/seleniumQuery
+2018-05-16 13:06:47 INFO  SeleniumTask:82 - 	sayems/java.webdriver
+2018-05-16 13:06:47 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:47 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:47 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:47 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:47 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:48 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:48 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:48 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:48 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:48 INFO  SeleniumTask:99 - Tag 'selenium' contain: selenium
+2018-05-16 13:06:49 INFO  SeleniumTask:105 - All tags contain selenium!
+2018-05-16 13:06:50 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-16 13:06:50 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	dobikun/selenium
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	asheikabrar/Selenium
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	arnlaugsson/sparkIt
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	knurum/Java
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	Gutek18/Java
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	defrances/Java
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	crossbrowsertesting/selenium-java
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	the-multitude/Selenium
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	bvinaykumar/selenium
+2018-05-16 13:06:50 INFO  SeleniumTask:82 - 	jgreenQA/Selenium
+2018-05-16 13:06:52 INFO  SeleniumTask:87 - Total count are 778,721 repository results
+2018-05-16 13:06:52 INFO  SeleniumTask:79 - There are 10 repositories on the page.
+
+2018-05-16 13:06:52 INFO  SeleniumTask:80 - Name of repositories: 
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	TheAlgorithms/Java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	DuGuQiuBai/Java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	hmkcode/Java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	pubnub/java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	sous-chefs/java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	dockerfile/java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	json-iterator/java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	gaopu/Java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	exercism/java
+2018-05-16 13:06:52 INFO  SeleniumTask:82 - 	structurizr/java
